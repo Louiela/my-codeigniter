@@ -1,2 +1,2 @@
 # my-codeigniter
-Codeigniter with configured parser template
+This is my codeigniter setup
