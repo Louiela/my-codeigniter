@@ -5,5 +5,9 @@
 </head>
 <body>
 	{data}
+	<br>
+	<div class="logout">
+		<a href="{base_url}secure/logout">Logout</a>
+	</div>
 </body>
 </html>

@@ -2,7 +2,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Firebase Projects</title>
+  <title>My Codeigniter</title>
       <style>
       /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
       @import url(https://fonts.googleapis.com/css?family=Exo:100,200,400);
@@ -49,7 +49,7 @@
       .header{
         position: absolute;
         top: calc(50% - 35px);
-        left: calc(50% - 320px);
+        left: calc(50% - 290px);
         z-index: 2;
       }
 
@@ -157,7 +157,7 @@
   <div class="body"></div>
     <div class="grad"></div>
     <div class="header">
-      <div><span>Firebase</span>Projects</div>
+      <div><span>My</span>Codeigniter</div>
     </div>
     <br>
     <div class="login">
