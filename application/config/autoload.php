@@ -62,7 +62,7 @@ $autoload['libraries'] = array(
 	'database',
 	'parser',
 	'session',
-	'__getglobal',
+	'global_data',
 	'__user'
 );
 

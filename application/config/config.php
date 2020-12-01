@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-$config['base_url'] = 'http://localhost/_me/my-codeigniter/';
+$config['base_url'] = 'http://localhost/myci/';
 
 /*
 |--------------------------------------------------------------------------
@@ -381,7 +381,7 @@ $config['encryption_key'] = '';
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
-$config['sess_save_path'] = NULL;
+$config['sess_save_path'] = BASEPATH . 'cache/sessions/';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;
